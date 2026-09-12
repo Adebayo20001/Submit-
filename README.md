@@ -1,0 +1,1 @@
+Create a dashboard where I can be able to score my students assignments and also generate all there score and name to my excel file and also create when my student can put there full name and upload there assignment image  and put submit and also appear in my dashboard  also website page purple and white
